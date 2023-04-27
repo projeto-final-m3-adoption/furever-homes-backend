@@ -6,6 +6,59 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "mateus@mail.com",
+      "password": "$2a$10$3m6XLACcbrbnnk3qR1QrfO47byPx2Q1irMjjY87K/vPxGvYHLUhse",
+      "name": "Mateus",
+      "age": 31,
+      "id": 2
+    }
+  ],
+  "pet": [
+    {
+      "name": "Caramelo",
+      "breed": "Cachorro",
+      "age": "Filhote",
+      "gender": "Macho",
+      "size": "Pequeno",
+      "img": "https://www.rbsdirect.com.br/imagesrc/25743537.jpg?w=700",
+      "isAdopted": false,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Bob",
+      "breed": "Lagarto",
+      "age": "Filhote",
+      "gender": "Macho",
+      "size": "Medio",
+      "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/03/dragao-komodo-lingua.jpg",
+      "isAdopted": true,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Cachorro",
+      "breed": "Cachorro",
+      "age": "Idoso",
+      "gender": "Macho",
+      "size": "Medio",
+      "img": "https://www.petz.com.br/blog/wp-content/uploads/2019/05/cachorro-independente-1.jpg",
+      "isAdopted": false,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Gato",
+      "breed": "Gato",
+      "age": "Idoso",
+      "gender": "Femea",
+      "size": "Grande",
+      "img": "https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg",
+      "isAdopted": false,
+      "userId": 2,
+      "id": 4
     }
   ]
 }
