@@ -22,3 +22,7 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### Imsonia
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Furever-homes&uri=https%3A%2F%2Fgithub.com%2Fprojeto-final-m3-adoption%2Ffurever-homes-backend%2FInsomnia-All_2023-04-27.json)
