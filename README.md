@@ -1,6 +1,9 @@
-# json-server-base
+# FurEver Homes API
 
-Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Projetos Front-end.
+Esse é o repositório com o Backend da aplicação Furever Homes - o melhor site de adoção de pets.<br>
+A url base da API é https://furever-homes.onrender.com
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
 
 ## Endpoints
 
@@ -117,8 +120,3 @@ Faz a adoção do pet. Rota necessita de token
 	"isAdopted": true	
 }
 ```
-
-
-### Imsonia
-
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
