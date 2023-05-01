@@ -27,6 +27,8 @@ Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do
 	}
 } </code>
 
+<hr/>
+
 ### Login
 
 POST /login <br/>
@@ -45,6 +47,8 @@ Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usu
 		"id": 3
 	}
 } </code>
+
+<hr/>
 
 ### Pet
 
@@ -70,6 +74,8 @@ Essas rotas pegam todos os animais cadastrados, ou um animal com base em seu id.
 		"id": 1
 	}]</code>
 
+<hr/>
+
 POST /pet <br/>
 
 Faz o cadastro de um novo pet. Rota necessita de token
@@ -89,6 +95,8 @@ Faz o cadastro de um novo pet. Rota necessita de token
 	"userId": 2
 }
 </code>
+
+<hr/>
 
 PATCH /pet/id
 
