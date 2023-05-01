@@ -17,7 +17,8 @@ Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do
 
 * Resultado da Requisição:
 
-<code>{
+```
+{
 	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hdGV1czJAbWFpbC5jb20iLCJpYXQiOjE2ODI5NTAwMDMsImV4cCI6MTY4Mjk1MzYwMywic3ViIjoiMyJ9.QIyrbjKJMkWjEPnutU-0u8j468GH8eJFUGEN7tK2W2Y",
 	"user": {
 		"email": "mateus2@mail.com",
@@ -25,7 +26,8 @@ Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do
 		"age": 31,
 		"id": 3
 	}
-} </code>
+}
+```
 
 <hr/>
 
@@ -38,7 +40,8 @@ Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usu
 
 * Resultado da Requisição:
 
-<code> {
+```
+{
 	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hdGV1czJAbWFpbC5jb20iLCJpYXQiOjE2ODI5NTAwODgsImV4cCI6MTY4Mjk1MzY4OCwic3ViIjoiMyJ9.BW_F-Q2mJ9ZFGLUX0ATuXeaC_FfweLaJdk_HrzBUBEI",
 	"user": {
 		"email": "mateus2@mail.com",
@@ -46,7 +49,8 @@ Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usu
 		"age": 31,
 		"id": 3
 	}
-} </code>
+}
+```
 
 <hr/>
 
@@ -59,7 +63,8 @@ Essas rotas pegam todos os animais cadastrados, ou um animal com base em seu id.
 
 * Resultado da Requisição:
 
-<code> [
+```
+[
 	{
 		"name": "Caramelo",
 		"type": "Cachorro",
@@ -72,7 +77,9 @@ Essas rotas pegam todos os animais cadastrados, ou um animal com base em seu id.
 		"isAdopted": false,
 		"userId": 1,
 		"id": 1
-	}]</code>
+	}
+]
+```	
 
 <hr/>
 
@@ -82,19 +89,20 @@ Faz o cadastro de um novo pet. Rota necessita de token
 
 * Body Necessário para cadastrar o pet:
 
-<code> {
+```
+{
 	"name": "Gato",
-  "type": "Gato",
-  "age": "Idoso",
-  "gender": "Femea",
-  "size": "Grande",
+  	"type": "Gato",
+  	"age": "Idoso",
+ 	"gender": "Femea",
+  	"size": "Grande",
 	"img": "",
 	"description": "",
 	"adress": "",
 	"isAdopted": false,
 	"userId": 2
 }
-</code>
+```
 
 <hr/>
 
@@ -104,9 +112,11 @@ Faz a adoção do pet. Rota necessita de token
 
 * Body necessário para a rota:
 
-<code>{
+```
+{
 	"isAdopted": true	
-} </code>
+}
+```
 
 
 ### Imsonia
