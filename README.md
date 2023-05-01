@@ -3,7 +3,7 @@
 Esse é o repositório com o Backend da aplicação Furever Homes - o melhor site de adoção de pets.<br>
 A url base da API é https://furever-homes.onrender.com
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=https://github.com/projeto-final-m3-adoption/furever-homes-backend/blob/master/Insomnia%20-%20Furever%20Homes)
 
 ## Endpoints
 
