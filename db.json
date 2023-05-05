@@ -19,7 +19,7 @@
     {
       "name": "Caramelo",
       "type": "Cachorro",
-      "age": "Filhote",
+      "age": "Adulto",
       "gender": "Macho",
       "size": "Pequeno",
       "img": "https://www.rbsdirect.com.br/imagesrc/25743537.jpg?w=700",
@@ -43,7 +43,7 @@
       "id": 2
     },
     {
-      "name": "Cachorro",
+      "name": "Lorenzo",
       "type": "Cachorro",
       "age": "Idoso",
       "gender": "Macho",
@@ -56,13 +56,13 @@
       "id": 3
     },
     {
-      "name": "Gato",
+      "name": "Farofa",
       "type": "Gato",
       "age": "Idoso",
       "gender": "Femea",
       "size": "Grande",
       "img": "https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg",
-      "description": "Só dorme come e c*",
+      "description": "Perfeito para você que divide a casa com os ratos",
       "address": "Biguaçu",
       "isAdopted": false,
       "userId": 2,
