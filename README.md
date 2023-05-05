@@ -109,7 +109,7 @@ Faz o cadastro de um novo pet. Rota necessita de token
 
 <hr/>
 
-PATCH /pet/id
+PATCH /pet/petId
 
 Faz a adoção do pet. Rota necessita de token
 
