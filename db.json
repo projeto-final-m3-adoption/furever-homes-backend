@@ -13,6 +13,12 @@
       "name": "Mateus",
       "age": 31,
       "id": 2
+    },
+    {
+      "email": "bi@mail.com",
+      "password": "$2a$10$xnJMJq35CTl55DSMcLSC.OO3eN2KuZYFLRgkeE8KyAKHPkowtTezO",
+      "name": "Bianca",
+      "id": 3
     }
   ],
   "pet": [
@@ -67,6 +73,19 @@
       "isAdopted": false,
       "userId": 2,
       "id": 4
+    },
+    {
+      "name": "Sugar Glider",
+      "type": "Outros",
+      "age": "Filhote",
+      "gender": "Femêa",
+      "size": "Grande",
+      "img": "https://www.potawatomizoo.org/wp-content/uploads/2018/03/sugar-glider-luke.jpg",
+      "address": "Sao Paulo",
+      "description": "Quem nunca quis ter um esquilinho voador?",
+      "isAdopted": false,
+      "userId": 3,
+      "id": 5
     }
   ]
 }
