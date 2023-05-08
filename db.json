@@ -75,17 +75,30 @@
       "id": 4
     },
     {
-      "name": "Sugar Glider",
+      "name": "Aurora",
       "type": "Outros",
       "age": "Filhote",
-      "gender": "Femêa",
-      "size": "Grande",
+      "gender": "Femea",
+      "size": "Pequeno",
       "img": "https://www.potawatomizoo.org/wp-content/uploads/2018/03/sugar-glider-luke.jpg",
-      "address": "Sao Paulo",
+      "address": "São Paulo",
       "description": "Quem nunca quis ter um esquilinho voador?",
       "isAdopted": false,
       "userId": 3,
       "id": 5
+    },
+    {
+      "name": "Aurora",
+      "type": "Gato",
+      "age": "Adulto",
+      "gender": "Femea",
+      "size": "Medio",
+      "img": "https://www.petfinder.com/static/4b347eb843f9161a652bf79e5dd4375b/98052/adoptable-cat-cropped_1.jpg",
+      "address": "Bahia",
+      "description": "Estou procurando um lar!",
+      "isAdopted": false,
+      "userId": 1,
+      "id": 6
     }
   ]
 }
